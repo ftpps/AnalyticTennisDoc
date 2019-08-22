@@ -9,3 +9,6 @@ Please use [issues](https://github.com/ftpps/AnalyticTennisDoc/issues) to report
 
 ## Copyright
 Min Kwan Park 2019.
+
+## Privacy notice
+https://www.freeprivacypolicy.com/privacy/view/89c6112f00f30a763926e3b339f76821
