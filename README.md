@@ -12,3 +12,7 @@ Min Kwan Park 2019.
 
 ## Privacy notice
 https://www.freeprivacypolicy.com/privacy/view/89c6112f00f30a763926e3b339f76821
+
+## Download
+[iOS/Apple store](https://apps.apple.com/app/id1476231672)
+it will be available in Google Play for Androi in soon. 
