@@ -1,6 +1,6 @@
 # Open source license
 
-This application is Copyright © Min Kwan Park. All rights reserved.
+This application(Analytic Tennis) is Copyright © Min Kwan Park. All rights reserved.
 
 The following sets forth attribution notices for third party software that may be contained in this application.
 
